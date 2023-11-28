@@ -1,0 +1,11 @@
+{
+  "name": "netbook",
+  "version": "1.0.0",
+  "description": "Online reading tool for your text, books collections.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Ly Nguyen <contact@minhlynguyenvo.com>",
+  "license": "MIT"
+}
